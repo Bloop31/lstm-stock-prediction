@@ -58,6 +58,3 @@ This helps visualize how well the LSTM captures market trends.
 
 ---
 
-## Installation
-
-Clone the repository:
